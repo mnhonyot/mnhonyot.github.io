@@ -2,7 +2,7 @@ mnhonyot.github.io
 =====================
 
 Your Public Site
-<addr><color=#FF34B3" 
+<addr><color="#FF34B3" 
 To get started, open the index.html file to find instructions and examples. You'll start your editing there!
 #Maggie Honyotski#
 **Toby**
